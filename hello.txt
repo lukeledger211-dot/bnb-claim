@@ -1,0 +1,3 @@
+# Hello from bnb-claim
+
+This is a new file added to the repository.
